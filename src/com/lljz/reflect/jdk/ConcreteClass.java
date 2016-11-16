@@ -1,4 +1,4 @@
-package com.lljz.reflect.res;
+package com.lljz.reflect.jdk;
 
 /**
  * ${DESCRIPTION}
